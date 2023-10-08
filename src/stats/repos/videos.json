@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to NestJS",
+    "description": "Learn the basics of NestJS, a powerful Node.js framework.",
+    "url": "https://example.com/nestjs-intro",
+    "duration": "15:30",
+    "views": 10000,
+    "uploadedDate": "2023-09-25",
+    "author": {
+      "name": "John Doe",
+      "channel": "NestJS Tutorials"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Building a RESTful API with Express",
+    "description": "A step-by-step guide to creating a RESTful API using Express.js.",
+    "url": "https://example.com/express-api",
+    "duration": "20:45",
+    "views": 7500,
+    "uploadedDate": "2023-09-20",
+    "author": {
+      "name": "Jane Smith",
+      "channel": "ExpressJS Mastery"
+    }
+  },
+  {
+    "id": "3",
+    "title": "React State Management with Redux",
+    "description": "Advanced techniques for managing state in React applications using Redux.",
+    "url": "https://example.com/react-redux-state",
+    "duration": "18:15",
+    "views": 12000,
+    "uploadedDate": "2023-09-18",
+    "author": {
+      "name": "Mike Johnson",
+      "channel": "React Wizards"
+    }
+  }
+]
